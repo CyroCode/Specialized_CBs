@@ -1,0 +1,104 @@
+
+wg_satellite = {
+
+	casus_belli = cb_satellite
+	
+	hide_if_no_cb = yes
+	total_war = no
+	cede_claims = no
+	
+	war_exhaustion = 0.5
+	threat_multiplier = 0.25
+	
+	surrender_acceptance = -100
+	
+	potential = {
+		has_technology = tech_specialized_cbs
+	}
+	
+	possible = {
+		always = yes
+	}
+	
+	ai_weight = {
+		weight = 100
+	}
+}
+
+wg_thrall = {
+
+	casus_belli = cb_thrall
+	
+	hide_if_no_cb = yes
+	total_war = no
+	cede_claims = no
+	
+	war_exhaustion = 0.5
+	threat_multiplier = 0.25
+	
+	surrender_acceptance = -100
+	
+	potential = {
+		has_technology = tech_specialized_cbs
+	}
+	
+	possible = {
+		always = yes
+	}
+	
+	ai_weight = {
+		weight = 100
+	}
+}
+
+wg_signatory = {
+
+	casus_belli = cb_signatory
+	
+	hide_if_no_cb = yes
+	total_war = no
+	cede_claims = no
+	
+	war_exhaustion = 0.5
+	threat_multiplier = 0.25
+	
+	surrender_acceptance = -100
+	
+	potential = {
+		has_technology = tech_specialized_cbs
+	}
+	
+	possible = {
+		always = yes
+	}
+	
+	ai_weight = {
+		weight = 100
+	}
+}
+
+wg_dominion = {
+
+	casus_belli = cb_dominion
+	
+	hide_if_no_cb = yes
+	total_war = no
+	cede_claims = no
+	
+	war_exhaustion = 0.5
+	threat_multiplier = 0.25
+	
+	surrender_acceptance = -100
+	
+	potential = {
+		has_technology = tech_specialized_cbs
+	}
+	
+	possible = {
+		always = yes
+	}
+	
+	ai_weight = {
+		weight = 100
+	}
+}

@@ -1,0 +1,50 @@
+﻿l_english:
+
+ # ###################################
+ # Technology
+ # ###################################
+ 
+tech_specialized_cbs:0 "Specialized Casus Belli"
+tech_specialized_cbs_desc:1 "Before we can conquer the galaxy we must learn better subject control and diplomacy."
+
+ # ###################################
+ # Diplomatic
+ # ###################################
+ 
+ action_demand_satellite:0 "Demand Satellite"
+ action_demand_thrall:0 "Demand Thrall"
+ action_demand_signatory:0 "Demand Signatory"
+ action_demand_dominion:0 "Demand Dominion"
+
+ # ###################################
+ # Subjects
+ # ###################################
+ 
+SUBJECT_satellite:0 "Satellite"
+SUBJECT_thrall:0 "Thrall"
+SUBJECT_signatory:0 "Signatory"
+SUBJECT_dominion:0 "Dominion"
+ 
+ # ###################################
+ # Casus Belli
+ # ###################################
+ 
+casus_belli_cb_satellite:0 "§HSubjugation§!"
+
+war_goal_wg_satellite:0 "Make Satellite"
+war_goal_wg_satellite_desc:1 "War is waged to subjugate the enemy as a Satellite. As a Satellite they will help us in our research."
+
+casus_belli_cb_thrall:0 "§HSubjugation§!"
+
+war_goal_wg_thrall:0 "Make Thrall"
+war_goal_wg_thrall_desc:1 "War is waged to subjugate the enemy as a Thrall. As a thrall they will pay us tribute but we will not meddle in they affairs. They can even declare war on any of our other thralls"
+
+casus_belli_cb_signatory:0 "§HSubjugation§!"
+
+war_goal_wg_signatory:0 "Make Signatory"
+war_goal_wg_signatory_desc:1 "War is waged to subjugate the enemy as a Signatory. As a signatory they cannot be trusted to conduct diplomacy, but as long as they have a fair and just society, we will not demand tribute and will defend them from their enemies"
+
+casus_belli_cb_dominion:0 "§HSubjugation§!"
+
+war_goal_wg_dominion:0 " Make Dominion"
+war_goal_wg_dominion_desc:1 "War is waged to subjugate the enemy as a Dominion. As a dominion they are forced into faith in addition to paying us tribute."
